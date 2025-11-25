@@ -7,7 +7,7 @@ Features:
 - Edit and remove tasks
 - Save / load tasks to a JSON file
 - Small CLI for demoing the features
-Designed to be short, readable, and easy to explain.
+short, readable, easy to explain.
 """
 
 import json
